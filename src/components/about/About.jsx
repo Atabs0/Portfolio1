@@ -4,6 +4,7 @@ import ME from '../../assets/me-about.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
+import {BsYoutube} from 'react-icons/bs'
 
 const About = () => {
   return (
@@ -41,9 +42,11 @@ const About = () => {
 
          </div>
          <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque illo iusto beatae 
-          asperiores adipisci eum molestiae placeat ut ipsam corrupti!Iusto veniam architecto animi? Molestiae 
-          quia aliquid dignissimos repudiandae blanditiis!
+          I'm a blockchain developer, cryptocurrency analyst, Solidity smart contract developer and auditor
+          with a passion for pioneering innovative solutions in the 
+          Blockchain and Crypto space. My expertise extends to onboarding 
+          individuals into the exciting world of cryptocurrencies, 
+          making complex concepts accessible to all.
          </p>
          <a href='#contact' className='btn btn-primary'>let's Talk</a>
         </div>

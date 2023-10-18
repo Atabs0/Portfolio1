@@ -18,26 +18,26 @@ import 'swiper/css/pagination';
 const data =[
   {
     avartar: AVTR1,
-    name: "Ahmed Shah",
-    review: 'Lorem ipsum dolor sit amet consectetur  adipisicing elit. Nesciunt quas culpa eos officiis tenetur nisi quod rerum quia repellendusadipisci numquam ea voluptate, quidem sequi dignissimos magnam fugiat obcaecati. Distinctio!'
+    name: "Sophia Anderson",
+    review: 'I am really impressed with the Solidity service! Your expertise and attention to detail made our project secure and efficient. Thanks a lot!'
 
  },
  {
   avartar: AVTR2,
-  name: "Ahmed Shah",
-  review: 'Lorem ipsum dolor sit amet consectetur  adipisicing elit. Nesciunt quas culpa eos officiis tenetur nisi quod rerum quia repellendusadipisci numquam ea voluptate, quidem sequi dignissimos magnam fugiat obcaecati. Distinctio!'
+  name: "Liam Mitchell",
+  review: 'Working with you was a breeze. Your Solidity skills ensured our smart contract was airtight, and the process was smooth. Highly recommended!'
 
 },
 {
   avartar: AVTR3,
-  name: "Ahmed Shah",
-  review: 'Lorem ipsum dolor sit amet consectetur  adipisicing elit. Nesciunt quas culpa eos officiis tenetur nisi quod rerum quia repellendusadipisci numquam ea voluptate, quidem sequi dignissimos magnam fugiat obcaecati. Distinctio!'
+  name: "Oliver Davis",
+  review: "Thanks for your thorough Solidity audit. Your input helped us identify and fix potential vulnerabilities, and we feel much more confident in our project's security now."
 
 },
 {
   avartar: AVTR4,
-  name: "Ahmed Shah",
-  review: 'Lorem ipsum dolor sit amet consectetur  adipisicing elit. Nesciunt quas culpa eos officiis tenetur nisi quod rerum quia repellendusadipisci numquam ea voluptate, quidem sequi dignissimos magnam fugiat obcaecati. Distinctio!'
+  name: "Ava Johnson",
+  review: 'Your Solidity development was top-notch! The smart contract you built exceeded our expectations, and your commitment to quality is truly commendable. We are extremely satisfied!'
 
 }
 ]

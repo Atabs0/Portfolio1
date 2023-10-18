@@ -1,59 +1,59 @@
 import React from 'react'
 import './Portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG1 from '../../assets/swapy.png'
+import IMG2 from '../../assets/ticketM.png'
+import IMG3 from '../../assets/amazon1.png'
+import IMG4 from '../../assets/faucet.jpg'
+import IMG5 from '../../assets/Zillow.jpg'
+import IMG6 from '../../assets/token1.png'
 
 const data = [
   {
     id:1,
     image: IMG1,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/Alien_pixels'
+    title: 'Sample Dex token swap Interface',
+    github: 'https://github.com/Atabs0',
+    demo: 'https://github.com/Atabs0/Dex'
 
   },
   {
     id:2,
     image: IMG2,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/Alien_pixels'
+    title: 'Sample Decentralized Ticket Master Dapp',
+    github: 'https://github.com/Atabs0',
+    demo: 'https://github.com/Atabs0/tokenmaster'
 
   },
   {
     id:3,
     image: IMG3,
-    title: 'Figma dashboard UI kit for data design web apps',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/Alien_pixels'
+    title: 'Decentralized Amazazon clone',
+    github: 'https://github.com/Atabs0',
+    demo: 'https://github.com/Atabs0/dappazon'
 
   },
   {
     id:4,
     image: IMG4,
-    title: 'Maintaining tasks and tracking progress',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/Alien_pixels'
+    title: 'Demo Faucet Dev',
+    github: 'https://github.com/Atabs0',
+    demo: 'https://github.com/Atabs0/FaucetDev'
 
   },
   {
     id:5,
     image: IMG5,
-    title: 'Charts templates & infogrpahics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/Alien_pixels'
+    title: 'Decentralized Zillow Clone',
+    github: 'https://github.com/Atabs0',
+    demo: 'https://github.com/Atabs0/ZillowClone'
 
   },
   {
     id:6,
     image: IMG6,
-    title: 'Charts templates & infogrpahics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/Alien_pixels'
+    title: 'Digital Token',
+    github: 'https://github.com/Atabs0',
+    demo: 'https://github.com/Atabs0/Token'
 
   }
 ]
@@ -62,7 +62,7 @@ const data = [
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>My Recent Work</h5>
+      <h5>My Devops</h5>
       <h2>Portfolio</h2>
 
       <div className="container portfolio__container">
@@ -77,7 +77,7 @@ const Portfolio = () => {
               <h3>{title}</h3>
               <div className="portfolio__item-cta">
               <a href={github} className='btn' target='_blank'>Github</a>
-              <a href={demo}className='btn btn-primary' target='_blank'>Live Demo</a>
+              <a href={demo}className='btn btn-primary' target='_blank'>Code</a>
               </div>
              
             </article>

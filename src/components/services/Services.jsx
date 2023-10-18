@@ -10,29 +10,45 @@ const Services = () => {
       <div className="container services__container">
         <article className='service'>
           <div className='service__head'>
-             <h3>UI/UX Design</h3>
+             <h3>Blockchain and Crypto Tutor</h3>
           </div>
 
           <ul className='service__list'>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+            <p>Fundamentals of cryptocurrencies.</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+            <p>Blockchain Technology and Use Cases.</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+            <p>Decentralized Finance (DeFi).</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+            <p>Security Best Practices and Wallet Setup.</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+            <p>Chart Analysis</p>
+            </li>
+            <li>
+            <BiCheck className='service__list-icon'/>
+            <p>Regulatory Compliance.</p>
+            </li>
+            <li>
+            <BiCheck className='service__list-icon'/>
+            <p>Wallet Setup</p>
+            </li>
+            <li>
+            <BiCheck className='service__list-icon'/>
+            <p>Crypto Research and Best Tools</p>
+            </li>
+            <li>
+            <BiCheck className='service__list-icon'/>
+            <p>Market Analysis Tokenomics</p>
             </li>
             
           </ul>
@@ -40,63 +56,68 @@ const Services = () => {
          {/* END OF UX/UI */}
          <article className='service'>
           <div className='service__head'>
-             <h3>Web Developement</h3>
+             <h3>Solidity Devs</h3>
           </div>
 
           <ul className='service__list'>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+            <p>Write, Debug and Test smart contracts in Solidity.</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+            <p>Deploy and interact with smart contracts on the Ethereum blockchain.</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+            <p>Develop decentralized applications (DApps) using Solidity.</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+            <p>Use Ethereum development tools like ethers.js libraries, Remix, and Hardhat to interact with smart contracts.</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+            <p>Keep up-to-date with Ethereum and Solidity updates and innovations</p>
             </li>
-            <li>
-            <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur elit.</p>
-            </li>
+ 
             
           </ul>
         </article>
          {/* END OF WEBDEV */}
          <article className='service'>
           <div className='service__head'>
-             <h3>Content Creation</h3>
+             <h3>Smart Contract Auditing</h3>
           </div>
 
           <ul className='service__list'>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+            <p>Code Review and Security Assessment</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+            <p>Gas Optimization and Static Analysis</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+            <p>Dynamic Testing and Rist Assessment.</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+            <p>Compliance Verification and Documentation Review.</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+            <p>Reentrancy Checks, Access Control and Upgradeability.</p>
+            </li>
+            <li>
+            <BiCheck className='service__list-icon'/>
+            <p>Privacy Considerations, Test Coverage Analysis, Communication.</p>
+            </li>
+            <li>
+            <BiCheck className='service__list-icon'/>
+            <p>Continuous Learning</p>
             </li>
             
           </ul>
